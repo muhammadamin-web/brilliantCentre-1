@@ -1,1 +1,1 @@
-# brilliantCentre-1
+# BrilliantCentre-1
