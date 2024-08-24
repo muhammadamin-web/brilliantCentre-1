@@ -16,7 +16,7 @@ const Blocks_location = () => {
             <div className="blocks_location_map_text">
 
               <p className="blocks_location_map_text_text">
-                Brilliant City — Samarqandda qadimiy va zamonaviy arxitektura yechimlarini birlashtirgan holda qurilayotgan yangi loyiha.
+              Brilliant Centre — arxitektura mukammalligi, zamonaviy dizayn va qulaylikning yuksak darajasi. Sizni haqiqiy estetik zavq keltiruvchi, amaliy yechimlarga ega boʻlgan uyda yashashga taklif etamiz.
               </p>
               {/* <p className="blocks_location_map_text_text2">Xaritada ko‘rish</p> */}
             </div>
@@ -25,10 +25,10 @@ const Blocks_location = () => {
           <div className="blocks_location_card_text">
             <h2 className="blocks_location_title">Majmua arxitekturasi</h2>
             <p className="blocks_location_text">
-              Brilliant City majmuasi zamonaviy arxitektura yondashuvlari bilan yaratilgan. Binolar oʻzining innovatsion va estetik koʻrinishi bilan ajralib turadi.
+            Brilliant Centre nafaqat zamonaviy turar-joy majmuasi, balki arxitektura sanʼatining namunasidir. Har bir bino mukammal arxitektura yechimlari asosida yaratilgan.
             </p>
             <p className="blocks_location_text">
-              Loyiha arxitekturasi sizni birinchi qarashda hayratda qoldiradi. Bu yerda nafaqat yashash, balki goʻzallik va sanʼatdan zavq olish imkoniyatiga ega boʻlasiz.
+            Majmuaning har bir qavati zamonaviy dizayn va innovatsion arxitektura yondashuvi bilan ajralib turadi. Bino tashqi koʻrinishidan tortib, ichki makongacha oʻziga xos uslubda qurilgan, u yerda har bir detal oʻylab chiqilgan.
             </p>
           </div>
 

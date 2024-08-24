@@ -52,12 +52,12 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Shinam va koʻp funksiyali uylar
-                          sizni kutib oladi
+                          Osmonoʻpar binodagi farovon 
+                          hayotning bir qismiga aylaning
                         </h3>
                         <p className="slidet_text2">
-                          Brilliant City — TXT Group kompaniyasi tomonidan Samarqand shahrida barpo
-                          etilayotgan koʻp funksiyali turar-joy majmuasi.
+                        Brilliant Centre — TXT Group kompaniyasi tomonidan Samarqand shahrida 
+                        qurilayotgan koʻp funksiyali turar-joy majmuasidir.
                         </p>
                       </div>
                       <div className="upcoming_icon2_card">

@@ -28,10 +28,10 @@ const Location = () => {
           >
             <h3 className="location_title">Joylashgan o`rni</h3>
             <p className="location_text">
-              Brilliant City turar-joy majmuasi Samarqand shahrining eng serqatnov koʻchalaridan birida joylashgan boʻlib, bu doim yangiliklar markazida boʻlishingizga yordam beradi.
+            Loyiha strategik jihatdan eng qulay joyda joylashgan. Majmua Samarqand shahri markazida boʻlib, qulay infratuzilmaga ega. Bu yerda har bir kundalik ehtiyojingiz uchun barcha zarur sharoitlar taqdim etilgan.
             </p>
             <p className="location_text">
-              Shahar markaziga yaqin boʻlishiga qaramay, loyiha hududi tinch va osoyishta. Yashil maydonlar va dam olish zonalari sizga shahar shovqinidan uzoqda yashash imkoniyatini beradi.
+            Barcha asosiy infratuzilma obyektlari, ish joylari, taʼlim va sogʻliqni saqlash muassasalariga oson kirish imkonini beradi. Endi uzoq yoʻl yurish yoki tirbandliklarda vaqt yoʻqotish haqida xavotir olmasangiz ham boʻladi.
             </p>
           </div>
           <div
@@ -40,9 +40,9 @@ const Location = () => {
             data-aos-offset="-200"
           >
             <p className="location_text2">
-              Brilliant City loyihasi shahar hayotining qulayliklarini tabiatning
-              osoyishtaligi bilan uygʻunlashtirgan. Tabiat bilan yaqinlikda
-              yashash uchun mukammal joyni tanlang!
+            Yaqin atrofda yashil bogʻlar, sport majmualari va koʻngilochar maskanlar 
+joylashgan boʻlib, dam olish va koʻngilochar tadbirlar oʻtkazish uchun 
+ajoyib joylarni taqdim etadi.
             </p>
           </div>
         </div>

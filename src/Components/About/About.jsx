@@ -22,10 +22,10 @@ const About = () => {
           >
             <h2 className="about_title">Brilliant Centre haqida</h2>
             <p className="about_text">
-              Qurilish jarayonida eng zamonaviy texnologiyalar va yuqori sifatli materiallardan foydalanamiz. Har bir detal puxta rejalashtirilgan boʻlib, uyingizni mustahkam va ishonchli qiladi.
+            Brilliant Centre — zamonaviylik, qulaylik va xavfsizlikning uygʻunlashgan manzili. Har bir detali mukammallik bilan oʻylab chiqilib, hayotingizni yanada farovon va mazmunli qilish uchun yaratilgan.
             </p>
             <p className="about_text">
-              Loyihada zamonaviy texnologiyalar va innovatsion yechimlar qoʻllanilgan. Energiya samaradorligi, xavfsizlik tizimlari va qulay interyer — hammasi sizning qulayligingiz uchun yaratilgan.
+            Yashil maydonlar, bolalar oʻyin maydonchalari va dam olish maskanlari har kuningiz tinchlik va osoyishtalikda oʻtishini taʼminlaydi. Bu yerda siz nafaqat yashaysiz, balki hayotdan toʻlaqonli zavq olasiz.
             </p>
           </div>
 
@@ -34,7 +34,7 @@ const About = () => {
             <div className="about_map_text">
 
               <p className="about_map_text_text">
-                Turar-joy majmuasi oilaviy yashash uchun moʻljallangan. Keng xonalar, bolalar uchun qulay maydonchalar va xavfsizlik sizning farovonligingizni taʼminlaydi.
+              Bu yerda oilangiz uchun barcha qulayliklar mavjud. Sport zallari, bolalar maydonchalari, va koʻngilochar maskanlar farovon hayot uchun yaratilgan.
               </p>
               <p className="about_map_text_text2">Xaritada ko‘rish</p>
             </div>

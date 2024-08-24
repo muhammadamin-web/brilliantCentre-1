@@ -33,9 +33,8 @@ const Footer = () => {
                 Sotuv bo‘limi
               </div>
               <p className="footer_location_text">
-                Samarqand viloyati Samarqand shahri
-                <br />
-                Rudakiy koʻchasi 205-uy
+              Samarqand viloyati Samarqand shahri <br />
+              Rudakiy koʻchasi 217-uy
               </p>
             </div>
             <div className="footer_social">

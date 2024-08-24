@@ -82,7 +82,7 @@ const Send_form = () => {
             <div className="card_right_box">
               <h3 className="form_title">Mutaxassis bilan suhbat</h3>
               <p className="form_text">
-                Telefon raqamingizni qoldiring, mutaxassislarimiz tez orada siz bilan bogʻlanib, loyiha haqida batafsil maʼlumot berishadi.
+              Aloqa ma’lumotlaringizni qoldiring va menejerimiz loyiha haqida ko’proq qiziqarli ma’lumotlar beradi
               </p>
               <div className="data_box">
                 <div className="data_box_name">
