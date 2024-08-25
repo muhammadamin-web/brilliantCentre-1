@@ -1,11 +1,15 @@
 .blocks_location {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     height: auto;
     @media (min-width: 1200px) and (max-width: 1900px) {
         margin-bottom: 200px;
         }
-        @include media(1000px) {
+        @include media(1200px) {
             margin-bottom: 60px;
+
+        }
+        @include media(1000px) {
+            margin-bottom: 40px;
 
         }
         @include media(600px) {
