@@ -1,7 +1,17 @@
 .blocks_location {
     margin-bottom: 100px;
     height: auto;
+    @media (min-width: 1200px) and (max-width: 1900px) {
+        margin-bottom: 200px;
+        }
+        @include media(1000px) {
+            margin-bottom: 60px;
 
+        }
+        @include media(600px) {
+            margin-bottom: 100px;
+
+        }
     &_svg_box {
         width: 80px;
         height: 80px;
@@ -20,6 +30,9 @@
             width: 48px;
             height: 48px;
         }
+       
+
+
     }
 
     &_svg_card {
@@ -71,15 +84,19 @@
         flex-direction: column;
         row-gap: 16px;
         grid-column: span 1;
-        margin-top: 36px;
+        margin-top: 56px;
         width: 80%;
 
         @include media(1000px) {
             grid-row: span 3;
+            width: 90%;
+
         }
 
-        @include media(1000px) {
-            width: 90%;
+        @include media(1200px) {
+            margin-top: 
+            06px;
+
         }
 
         @include media(600px) {
@@ -288,20 +305,22 @@
         background: white;
         position: absolute;
         box-shadow: 0px 12px 26px 0px #0000001a;
-        left: 20%;
+        left: 16%;
         border-radius: 16px;
         display: flex;
         flex-direction: column;
         align-items: start;
         gap: 16px;
-        bottom: -50px;
-        width: 70%;
+        bottom: -130px;
+        width: 76%;
 
 
 
 
         @include media(1538px) {
             padding: 30px 46px;
+            bottom: -110px;
+
         }
 
         @include media(1490px) {
@@ -310,19 +329,21 @@
 
         @include media(1250px) {
             padding: 16px;
+            bottom: -60px;
+
             // left: -20px;
         }
 
         @include media(1000px) {
             left: 5%;
             width: 90%;
-            bottom: -16px;
+            bottom: -30px;
         }
 
         @include media(600px) {
             left: 0px;
             width: 100%;
-            bottom: -25px;
+            bottom: -45px;
             border-radius: 8px;
         }
 

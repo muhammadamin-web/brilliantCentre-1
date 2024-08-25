@@ -146,7 +146,7 @@
         }
 
         &_img {
-            width: 60px;
+            width: 80px;
             height: 100%;
             color: black;
             // @include media(1400px) {
@@ -165,13 +165,13 @@
             }
 
             &_color {
-                fill: #201637;
+                fill: var(--brwn2);
             }
 
         }
 
         &_card {
-            width: 60px;
+            width: 80px;
             height: 80px;
 
             @include media(1400px) {
@@ -313,7 +313,7 @@
             font-weight: 400;
             line-height: 24px;
             text-align: left;
-            color: #201637;
+            color: var(--brwn2);
 
 
             @include media(1450px) {
@@ -338,7 +338,7 @@
             font-weight: 600;
             line-height: 32px;
             text-align: left;
-
+color: var(--brwn2);
             @include media(800px) {
                 font-size: 14px;
                 line-height: 20px;
