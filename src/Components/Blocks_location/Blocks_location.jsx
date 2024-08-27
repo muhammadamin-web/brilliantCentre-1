@@ -1,5 +1,5 @@
 
-import universal from "../../assets/images/blocks_location.png";
+import universal from "../../assets/images/blocks_location.jpg";
 
 
 const Blocks_location = () => {
