@@ -146,7 +146,7 @@ const About = () => {
                   </svg>
 
                 </div>
-                24/7 Qo'riqlash va videkuzatuv
+                24/7 Qo'riqlash va video kuzatuv
               </div>
               <div className="about_icon_text">
                 <div className="about_icon_text_card">
