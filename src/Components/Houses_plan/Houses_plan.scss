@@ -45,7 +45,7 @@
     }
     &_card_number {
         display: flex;
-        background: #201637;
+        background: #004F2E;
         border-radius: 32px;
         padding: 5px;
         @include media(650px) {
@@ -66,7 +66,7 @@
         &.active {
             background-color: #fff;
             border-radius: 32px;
-            color: #201637;
+            color: #004F2E;
         }
         @include media(1670px) {
             font-size: 22px;
@@ -90,7 +90,7 @@
     &_number:hover {
         background-color: #fff;
         border-radius: 32px;
-        color: #201637;
+        color: #004F2E;
     }
 
     &_card_bottom,
